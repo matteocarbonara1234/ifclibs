@@ -1,0 +1,16 @@
+# Dependency and build folders created by the build scripts
+/deps*/
+/build*/
+/install*/
+/win/BuildDepsCache*.txt
+# IfcExpressParser residue
+/src/ifcexpressparser/express_parser.py
+# General Python residue
+__pycache__
+*.py.bak
+# Visual Studio Code files
+.vscode
+# PyCharm files
+.idea
+# OSX files
+.DS_Store
